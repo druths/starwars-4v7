@@ -1,0 +1,25 @@
+# Each line is a mapping from a character in Episode IV (column 1) to a
+# character in Episode VIII (column 2).  Characters that don't appear in the
+# mapping simply weren't mapped by the algorithm.
+
+CHEWBACCA	CHEWBACCA
+R2-D2	BB-8
+C-3PO	C-3PO
+BERU	FINN
+LUKE	POE
+OWEN	HAN
+OBI-WAN	KYLO_REN
+LEIA	LEIA
+BIGGS	CAPTAIN_PHASMA
+HAN	LOR_SAN_TEKKA
+CAMIE	SNAP
+DARTH_VADER	REY
+MOTTI	BALA-TIK
+TARKIN	MAZ
+GREEDO	GENERAL_HUX
+JABBA	R2-D2
+DODONNA	ADMIRAL_ACKBAR
+GOLD_LEADER	ADMIRAL_STATURA
+WEDGE	ELLO_ASTY
+RED_LEADER	JESS
+RED_TEN	NIV_LEK
