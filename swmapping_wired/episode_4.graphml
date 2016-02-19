@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key attr.name="label" attr.type="string" for="node" id="label"/>
+<key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+<key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+<key attr.name="Edge Id" attr.type="string" for="edge" id="edgeid"/>
+<key attr.name="r" attr.type="int" for="node" id="r"/>
+<key attr.name="g" attr.type="int" for="node" id="g"/>
+<key attr.name="b" attr.type="int" for="node" id="b"/>
+<key attr.name="x" attr.type="float" for="node" id="x"/>
+<key attr.name="y" attr.type="float" for="node" id="y"/>
+<key attr.name="size" attr.type="float" for="node" id="size"/>
+<key attr.name="Matched" attr.type="boolean" for="node" id="matched"/>
+<graph edgedefault="directed">
+<node id="CHEWBACCA">
+<data key="label">CHEWBACCA</data>
+<data key="matched">true</data>
+<data key="size">10.0</data>
+<data key="r">31</data>
+<data key="g">0</data>
+<data key="b">1</data>
+<data key="x">-168.84224</data>
+<data key="y">420.00696</data>
+</node>
+<node id="R2-D2">
+<data key="label">R2-D2</data>
+<data key="matched">true</data>
+<data key="size">10.0</data>
+<data key="r">31</data>
+<data key="g">0</data>
+<data key="b">1</data>
+<data key="x">-0.87851596</data>
+<data key="y">-301.86963</data>
+</node>
+<node id="C-3PO">
+<data key="label">C-3PO</data>
+<data key="matched">true</data>
+<data key="size">10.0</data>
+<data key="r">31</data>
+<data key="g">0</data>
+<data key="b">1</data>
+<data key="x">25.746466</data>
+<data key="y">57.161423</data>
+</node>
+<node id="BERU">
+<data key="label">BERU</data>
+<data key="matched">true</data>
+<data key="size">10.0</data>
+<data key="r">31</data>
+<data key="g">0</data>
+<data key="b">1</data>
+<data key="x">272.35852</data>
+<data key="y">-445.5427</data>
+</node>
+<node id="LUKE">
+<data key="label">LUKE</data>
+<data key="matched">true</data>
+<data key="size">10.0</data>
+<data key="r">31</data>
+<data key="g">0</data>
+<data key="b">1</data>
+<data key="x">321.65387</data>
+<data key="y">-20.23938</data>
+</node>
+<node id="OWEN">
+<data key="label">OWEN</data>
+<data key="matched">true</data>
+<data key="size">10.0</data>
+<data key="r">31</data>
+<data key="g">0</data>
+<data key="b">1</data>
+<data key="x">515.03394</data>
+<data key="y">-423.36295</data>
+</node>
+<node id="OBI-WAN">
+<data key="label">OBI-WAN</data>
+<data key="matched">true</data>
+<data key="size">10.0</data>
+<data key="r">31</data>
+<data key="g">0</data>
+<data key="b">1</data>
+<data key="x">-577.6371</data>
+<data key="y">-19.526423</data>
+</node>
+<node id="LEIA">
+<data key="label">LEIA</data>
+<data key="matched">true</data>
+<data key="size">10.0</data>
+<data key="r">31</data>
+<data key="g">0</data>
+<data key="b">1</data>
+<data key="x">-504.01184</data>
+<data key="y">-251.94319</data>
+</node>
+<node id="BIGGS">
+<data key="label">BIGGS</data>
+<data key="matched">true</data>
+<data key="size">10.0</data>
+<data key="r">31</data>
+<data key="g">0</data>
+<data key="b">1</data>
+<data key="x">650.27716</data>
+<data key="y">-149.23337</data>
+</node>
+<node id="HAN">
+<data key="label">HAN</data>
+<data key="matched">true</data>
+<data key="size">10.0</data>
+<data key="r">31</data>
+<data key="g">0</data>
+<data key="b">1</data>
+<data key="x">-399.9706</data>
+<data key="y">379.72842</data>
+</node>
+<node id="CAMIE">
+<data key="label">CAMIE</data>
+<data key="matched">true</data>
+<data key="size">10.0</data>
+<data key="r">31</data>
+<data key="g">0</data>
+<data key="b">1</data>
+<data key="x">699.8659</data>
+<data key="y">-310.5785</data>
+</node>
+<node id="DARTH_VADER">
+<data key="label">DARTH_VADER</data>
+<data key="matched">true</data>
+<data key="size">10.0</data>
+<data key="r">31</data>
+<data key="g">0</data>
+<data key="b">1</data>
+<data key="x">-785.6505</data>
+<data key="y">-122.40268</data>
+</node>
+<node id="MOTTI">
+<data key="label">MOTTI</data>
+<data key="matched">true</data>
+<data key="size">10.0</data>
+<data key="r">31</data>
+<data key="g">0</data>
+<data key="b">1</data>
+<data key="x">-486.1927</data>
+<data key="y">-562.0971</data>
+</node>
+<node id="TARKIN">
+<data key="label">TARKIN</data>
+<data key="matched">true</data>
+<data key="size">10.0</data>
+<data key="r">31</data>
+<data key="g">0</data>
+<data key="b">1</data>
+<data key="x">-1005.9647</data>
+<data key="y">-496.99158</data>
+</node>
+<node id="GREEDO">
+<data key="label">GREEDO</data>
+<data key="matched">true</data>
+<data key="size">10.0</data>
+<data key="r">31</data>
+<data key="g">0</data>
+<data key="b">1</data>
+<data key="x">-429.87012</data>
+<data key="y">623.92773</data>
+</node>
+<node id="JABBA">
+<data key="label">JABBA</data>
+<data key="matched">true</data>
+<data key="size">10.0</data>
+<data key="r">31</data>
+<data key="g">0</data>
+<data key="b">1</data>
+<data key="x">-799.7536</data>
+<data key="y">556.71625</data>
+</node>
+<node id="DODONNA">
+<data key="label">DODONNA</data>
+<data key="matched">true</data>
+<data key="size">10.0</data>
+<data key="r">31</data>
+<data key="g">0</data>
+<data key="b">1</data>
+<data key="x">908.32227</data>
+<data key="y">231.95485</data>
+</node>
+<node id="GOLD_LEADER">
+<data key="label">GOLD_LEADER</data>
+<data key="matched">true</data>
+<data key="size">10.0</data>
+<data key="r">31</data>
+<data key="g">0</data>
+<data key="b">1</data>
+<data key="x">1083.5536</data>
+<data key="y">76.6905</data>
+</node>
+<node id="WEDGE">
+<data key="label">WEDGE</data>
+<data key="matched">true</data>
+<data key="size">10.0</data>
+<data key="r">31</data>
+<data key="g">0</data>
+<data key="b">1</data>
+<data key="x">907.5152</data>
+<data key="y">-91.02974</data>
+</node>
+<node id="RED_LEADER">
+<data key="label">RED_LEADER</data>
+<data key="matched">true</data>
+<data key="size">10.0</data>
+<data key="r">31</data>
+<data key="g">0</data>
+<data key="b">1</data>
+<data key="x">580.3994</data>
+<data key="y">223.33792</data>
+</node>
+<node id="RED_TEN">
+<data key="label">RED_TEN</data>
+<data key="matched">true</data>
+<data key="size">10.0</data>
+<data key="r">31</data>
+<data key="g">0</data>
+<data key="b">1</data>
+<data key="x">430.6101</data>
+<data key="y">318.31647</data>
+</node>
+<edge source="CHEWBACCA" target="R2-D2">
+<data key="edgeid">0</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="R2-D2" target="C-3PO">
+<data key="edgeid">1</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="R2-D2" target="BERU">
+<data key="edgeid">2</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="R2-D2" target="LUKE">
+<data key="edgeid">3</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="R2-D2" target="OWEN">
+<data key="edgeid">4</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="R2-D2" target="OBI-WAN">
+<data key="edgeid">5</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="R2-D2" target="LEIA">
+<data key="edgeid">6</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="R2-D2" target="BIGGS">
+<data key="edgeid">7</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="R2-D2" target="HAN">
+<data key="edgeid">8</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="CHEWBACCA" target="OBI-WAN">
+<data key="edgeid">9</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="CHEWBACCA" target="C-3PO">
+<data key="edgeid">10</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="CHEWBACCA" target="LUKE">
+<data key="edgeid">11</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="CHEWBACCA" target="HAN">
+<data key="edgeid">12</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="CHEWBACCA" target="LEIA">
+<data key="edgeid">13</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="LUKE" target="CAMIE">
+<data key="edgeid">14</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="BIGGS" target="CAMIE">
+<data key="edgeid">15</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="LUKE" target="BIGGS">
+<data key="edgeid">16</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="LEIA" target="DARTH_VADER">
+<data key="edgeid">17</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="BERU" target="LUKE">
+<data key="edgeid">18</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="BERU" target="OWEN">
+<data key="edgeid">19</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="C-3PO" target="BERU">
+<data key="edgeid">20</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="LUKE" target="OWEN">
+<data key="edgeid">21</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="C-3PO" target="LUKE">
+<data key="edgeid">22</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="C-3PO" target="OWEN">
+<data key="edgeid">23</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="C-3PO" target="LEIA">
+<data key="edgeid">24</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="LUKE" target="LEIA">
+<data key="edgeid">25</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="BERU" target="LEIA">
+<data key="edgeid">26</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="LUKE" target="OBI-WAN">
+<data key="edgeid">27</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="C-3PO" target="OBI-WAN">
+<data key="edgeid">28</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="OBI-WAN" target="LEIA">
+<data key="edgeid">29</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="MOTTI" target="TARKIN">
+<data key="edgeid">30</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="DARTH_VADER" target="MOTTI">
+<data key="edgeid">31</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="DARTH_VADER" target="TARKIN">
+<data key="edgeid">32</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="OBI-WAN" target="HAN">
+<data key="edgeid">33</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="LUKE" target="HAN">
+<data key="edgeid">34</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="HAN" target="GREEDO">
+<data key="edgeid">35</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="HAN" target="JABBA">
+<data key="edgeid">36</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="C-3PO" target="HAN">
+<data key="edgeid">37</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="LEIA" target="MOTTI">
+<data key="edgeid">38</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="LEIA" target="TARKIN">
+<data key="edgeid">39</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="LEIA" target="HAN">
+<data key="edgeid">40</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="OBI-WAN" target="DARTH_VADER">
+<data key="edgeid">41</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="DODONNA" target="GOLD_LEADER">
+<data key="edgeid">42</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="DODONNA" target="WEDGE">
+<data key="edgeid">43</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="LUKE" target="DODONNA">
+<data key="edgeid">44</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="GOLD_LEADER" target="WEDGE">
+<data key="edgeid">45</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="LUKE" target="GOLD_LEADER">
+<data key="edgeid">46</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="LUKE" target="WEDGE">
+<data key="edgeid">47</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="LEIA" target="BIGGS">
+<data key="edgeid">48</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="LEIA" target="RED_LEADER">
+<data key="edgeid">49</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="LUKE" target="RED_LEADER">
+<data key="edgeid">50</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="BIGGS" target="RED_LEADER">
+<data key="edgeid">51</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="C-3PO" target="BIGGS">
+<data key="edgeid">52</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="C-3PO" target="RED_LEADER">
+<data key="edgeid">53</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="WEDGE" target="RED_LEADER">
+<data key="edgeid">54</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="GOLD_LEADER" target="RED_LEADER">
+<data key="edgeid">55</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="BIGGS" target="WEDGE">
+<data key="edgeid">56</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="RED_LEADER" target="RED_TEN">
+<data key="edgeid">57</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="BIGGS" target="GOLD_LEADER">
+<data key="edgeid">58</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="LUKE" target="RED_TEN">
+<data key="edgeid">59</data>
+<data key="weight">1.0</data>
+</edge>
+</graph>
+</graphml>
