@@ -7,6 +7,7 @@ to_edgelists:
 	###
 	code.py:
 		import swdata
+		import zen
 
 		def write_edgelist(fname,G):
 			fh = open(fname,'w')
@@ -20,6 +21,10 @@ to_edgelists:
 
 		write_edgelist('$PLN(interaction_4.elist)',G4)
 		write_edgelist('$PLN(interaction_7.elist)',G7)
+
+		print G7.weight('LOR_SAN_TEKKA','POE')
+		zen.edgelist.write(G4,'$PLN(interaction_4.welist)',use_weights=True)
+		zen.edgelist.write(G7,'$PLN(interaction_7.welist)',use_weights=True)
 
 num_chars:
 	###

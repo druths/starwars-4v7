@@ -1,3 +1,5 @@
+This contains the data that was used for the final analysis and, in particular, for the Wired blog article.
+
 ########################
 # The data
 ########################

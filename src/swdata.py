@@ -30,7 +30,7 @@ def load_json_net(fname):
 
 	G = zen.Graph()
 	for e in data['links']:
-		G.add_edge(char_id2name[e['source']],char_id2name[e['target']],e['value'])
+		G.add_edge(char_id2name[e['source']],char_id2name[e['target']],weight=e['value'])
 
 	return G
 
